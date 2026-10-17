@@ -38,7 +38,7 @@ El proyecto es un trabajo colectivo. GitHub Pages muestra el frontend; las funci
 
 ## Cómo está organizado mi GitHub
 
-Los repositorios destacados reúnen los proyectos de portafolio. También conservo ejercicios de Java, lógica y desarrollo web como parte de mi aprendizaje. Cada README indica el alcance y los requisitos del proyecto; los ejercicios y el material de mentorías se identifican como tales.
+Los repositorios destacados reúnen los proyectos de portafolio. También conservo ejercicios de Java, lógica y desarrollo web como parte de mi aprendizaje. Los README de los proyectos destacados indican su alcance y requisitos; los ejercicios y el material de mentorías se identifican como tales.
 
 En los proyectos colaborativos, el historial ayuda a distinguir las contribuciones del equipo. En las prácticas con asistencia de IA, mantengo el contexto del material recibido y las limitaciones conocidas.
 
