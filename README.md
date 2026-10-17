@@ -2,7 +2,7 @@
 
 ### Desarrollador Java Full Stack Junior · Ingeniero en Sistemas Computacionales
 
-Desarrollo aplicaciones web con **Java, Spring Boot, APIs REST, MySQL y JavaScript**. Mi formación combina la ingeniería en Sistemas Computacionales con el bootcamp Java Full Stack de **Generation México · CH70**.
+Desarrollo aplicaciones web con **Java, Spring Boot, APIs REST, MySQL y JavaScript**.
 
 Me interesa construir soluciones claras, colaborar en equipo y seguir mejorando mediante proyectos prácticos y revisión de código. Busco una oportunidad como desarrollador junior.
 
